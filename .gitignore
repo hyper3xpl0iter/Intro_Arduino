@@ -1,0 +1,16 @@
+DUMP_arduino_avr_uno_ArduinoIDE.tmp
+post_processing_boards.txt
+post_processing_platform.txt
+pre_processing_boards.txt
+pre_processing_platform.txt
+.project/
+RemoteSystemsTempFiles/
+
+
+## Actual Project
+LEDstrip_gazebo/arduino/
+LEDstrip_gazebo/Release/
+LEDstrip_gazebo/spec.d
+LEDstrip_gazebo/.cproject
+LEDstrip_gazebo/.project
+LEDstrip_gazebo/.settings/

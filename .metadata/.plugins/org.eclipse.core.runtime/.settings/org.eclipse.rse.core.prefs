@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.eclipse.rse.systemtype.ftp.systemType.defaultUserId=surg30n
+org.eclipse.rse.systemtype.linux.systemType.defaultUserId=surg30n
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=amattie
+org.eclipse.rse.systemtype.ssh.systemType.defaultUserId=surg30n
+org.eclipse.rse.systemtype.telnet.systemType.defaultUserId=surg30n
+org.eclipse.rse.systemtype.unix.systemType.defaultUserId=surg30n
+org.eclipse.rse.systemtype.windows.systemType.defaultUserId=surg30n
+useridperkey=w541.Local\=amattie;

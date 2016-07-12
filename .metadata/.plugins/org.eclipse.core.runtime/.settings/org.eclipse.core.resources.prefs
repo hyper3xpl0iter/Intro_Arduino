@@ -1,0 +1,7 @@
+description.snapshotinterval=120000
+eclipse.preferences.version=1
+pathvariable.ArduinoLibPath=/opt/arduino/libraries
+pathvariable.ArduinoPath=/opt/arduino
+pathvariable.ArduinoPivateLibPath=/home/amattie/Arduino/libraries
+pathvariable.ArduinoPrivateLibPath=/home/amattie/Arduino/libraries
+version=1
