@@ -6,4 +6,4 @@ org.eclipse.rse.systemtype.ssh.systemType.defaultUserId=surg30n
 org.eclipse.rse.systemtype.telnet.systemType.defaultUserId=surg30n
 org.eclipse.rse.systemtype.unix.systemType.defaultUserId=surg30n
 org.eclipse.rse.systemtype.windows.systemType.defaultUserId=surg30n
-useridperkey=w541.Local\=amattie;
+useridperkey=w541.openhab.introsec.ca\=surg30n;w541.Local\=amattie;w541.www.introsec.ca\=surg30n;w541.san00.soc.introsec.ca\=surg30n;

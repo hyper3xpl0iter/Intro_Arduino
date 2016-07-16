@@ -13,8 +13,8 @@
 		</list>
 	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item value="200" key="DIALOG_Y_ORIGIN"/>
-		<item value="639" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+		<item value="510" key="DIALOG_X_ORIGIN"/>
 	</section>
 	<section name="ShowViewDialog">
 		<item value="371" key="DIALOG_WIDTH"/>
@@ -34,5 +34,7 @@
 		<item value="true" key="uncategorizedFilter"/>
 		<item value="true" key="internalFilter"/>
 		<item value="true" key="actionSetFilter"/>
+	</section>
+	<section name="ImportExportAction">
 	</section>
 </section>
