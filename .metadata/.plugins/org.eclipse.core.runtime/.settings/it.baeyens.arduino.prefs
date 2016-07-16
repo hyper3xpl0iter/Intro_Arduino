@@ -1,11 +1,11 @@
-Arduino\ Board=Arduino/Genuino Uno
+Arduino\ Board=
 Arduino\ Custom\ Option\ Selections=
-Arduino\ IDE\ Version=1.6.9
+Arduino\ IDE\ Version=1.6.5-r5
 Arduino\ IDE\ preference.txt\ time\ stamp=1468334016000
-Arduino\ Path=/opt/arduino/
+Arduino\ Path=/home/amattie/sw/development/arduino/arduino-1.6.5-r5
 Arduino\ Port=
 Arduino\ Programmer=Default
-Arduino\ boards\ file=/opt/arduino/hardware/arduino/avr/boards.txt
+Arduino\ boards\ file=
 Build\ before\ upload\ option=ASK
 FmStatus=2
 FsStatus=3
