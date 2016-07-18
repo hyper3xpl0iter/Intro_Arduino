@@ -3,7 +3,7 @@
 //    filename: rgb_ledstrip_testing.ino
 // description: Simple sketch to manual update color for testing
 //      author: hyper3xpl0iter
-//       email: devel@th3c1inic.org
+//       email: devel@introsec.ca
 //         GPG: B9C0 3976 3CB4 794E D66C 8F75 8AA0 8470 3533 2EDD
 //        date: 07/18/2016
 //
