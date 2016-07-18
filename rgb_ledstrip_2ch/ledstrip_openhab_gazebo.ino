@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////
 //
 //	   Filename: ledstrip_openhab_gazebo.ino
-//	Description: Control RGB LED stips via OpenHAB w/ NRF24 chips 
+//	Description: Control RGB LED strips via OpenHAB w/ NRF24 chips
 //	     Author: hyper3xpl0iter
 //        Email: devel@introsec.ca
 //          GPG: B9C0 3976 3CB4 794E D66C 8F75 8AA0 8470 3533 2EDD
