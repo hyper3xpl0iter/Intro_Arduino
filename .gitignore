@@ -6,11 +6,18 @@ pre_processing_platform.txt
 .project/
 RemoteSystemsTempFiles/
 .metadata/
+.metadata
 
-## Actual Project
-LEDstrip_gazebo/arduino/
-LEDstrip_gazebo/Release/
-LEDstrip_gazebo/spec.d
-LEDstrip_gazebo/.cproject
-LEDstrip_gazebo/.project
-LEDstrip_gazebo/.settings/
+.recommenders
+.recommenders/
+.recommenders/*
+
+
+## Actual Projects
+
+rgb_ledstrip_*/arduino/
+rgb_ledstrip_*/Release/
+rgb_ledstrip_*/spec.d
+rgb_ledstrip_*/.cproject
+rgb_ledstrip_*/.project
+rgb_ledstrip_*/.settings/
