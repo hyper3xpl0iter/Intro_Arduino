@@ -14,9 +14,9 @@ const int redPin = 9;
 const int greenPin = 10;
 const int bluePin = 11;
 
-const int redPinTwo = 6
-const int greenPinTwo = 5
-const int bluePinTwo = 3
+const int redPinTwo = 6;
+const int greenPinTwo = 5;
+const int bluePinTwo = 3;
 
 //maximum duty cycle to be used on each led for color balancing.
 //if "white" (R=255, G=255, B=255) doesn't look white, reduce the red, green, or blue max value.
@@ -50,9 +50,23 @@ void setup(){
   Serial.begin(9600);
 
   // wait for serial port to connect.
-  while (!serial) {
+  while (!Serial) {
 	  ;
   }
+  Serial.println("Serial communications are initiated");
+
+  // Print sketch information
+  Serial.println("//////////////////////////////////////////////////////////////////////");
+  Serial.println("//");
+  Serial.println("//    filename: rgb_ledstrip_testing.ino");
+  Serial.println("// description: Simple sketch to manual update color for testing");
+  Serial.println("//      author: hyper3xpl0iter");
+  Serial.println("//       email: devel@th3c1inic.org");
+  Serial.println("//         GPG: B9C0 3976 3CB4 794E D66C 8F75 8AA0 8470 3533 2EDD");
+  Serial.println("//        date: 07/18/2016");
+  Serial.println("//");
+  Serial.println("//////////////////////////////////////////////////////////////////////");
+
 }
 
 void loop(){
@@ -70,3 +84,4 @@ void loop(){
 	analogWrite(redPinTwo, map(colors[0], 0, 255, 0, max_red));
 	analogWrite(greenPinTwo, map(colors[1], 0, 255, 0, max_green));
 	analogWrite(bluePinTwo, map(colors[2], 0, 255, 0, max_blue));
+}
